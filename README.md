@@ -103,7 +103,6 @@ In RAG (Retrieval-Augmented Generation), you first retrieve factual, highly rele
 <img width="1108" height="35" alt="image" src="https://github.com/user-attachments/assets/dd1bd074-7972-4add-aae3-c13ca22af181" />
 
 
-<img width="1520" height="943" alt="Screenshot 2026-09-18 082052" src="https://github.com/user-attachments/assets/b226631b-abdd-4a09-8009-ca4f1c17446d" />
 ### Retrieved Context
 <img width="1093" height="720" alt="image" src="https://github.com/user-attachments/assets/c7e35af2-3f9d-4489-b4f8-b05d22cf6e26" />
 
