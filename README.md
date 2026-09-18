@@ -88,19 +88,27 @@ In RAG (Retrieval-Augmented Generation), you first retrieve factual, highly rele
 *(When editing this file on GitHub, you can delete the placeholder text below and simply drag-and-drop your screenshot images directly into the editor!)*
 
 ### Document Ingestion
-![Document Ingestion Screenshot](replace_this_with_image_url)
+<img width="1110" height="406" alt="Screenshot 2026-09-17 224730" src="https://github.com/user-attachments/assets/3f6ddd9d-79a6-4ee8-98c3-840d514f73be" />
+
 
 ### Embedding/Indexing Process
-![Embedding/Indexing Screenshot](replace_this_with_image_url)
+
+<img width="1122" height="240" alt="Screenshot 2026-09-17 224850" src="https://github.com/user-attachments/assets/ab180616-a950-497a-8903-102ed9498491" />
 
 ### Vector Database/Search
-![Vector Search Screenshot](replace_this_with_image_url)
+<img width="1120" height="838" alt="Screenshot 2026-09-17 224910" src="https://github.com/user-attachments/assets/801b524c-fc77-431f-a9d2-85f0147d0b13" />
+
 
 ### User Query
-![User Query Screenshot](replace_this_with_image_url)
+<img width="1108" height="35" alt="image" src="https://github.com/user-attachments/assets/dd1bd074-7972-4add-aae3-c13ca22af181" />
 
+
+<img width="1520" height="943" alt="Screenshot 2026-09-18 082052" src="https://github.com/user-attachments/assets/b226631b-abdd-4a09-8009-ca4f1c17446d" />
 ### Retrieved Context
-![Retrieved Context Screenshot](replace_this_with_image_url)
+<img width="1093" height="720" alt="image" src="https://github.com/user-attachments/assets/c7e35af2-3f9d-4489-b4f8-b05d22cf6e26" />
+
 
 ### Final Generated Answer
-![Final Answer Screenshot](replace_this_with_image_url)
+<img width="1118" height="90" alt="image" src="https://github.com/user-attachments/assets/7fd23942-bc5c-46de-81dc-91d0544001b2" />
+
+
