@@ -37,6 +37,9 @@ This project is a Retrieval-Augmented Generation (RAG) application that allows u
    pip install -r requirements.txt
    ```
 
+## Sample Document Used for Testing
+The application uses `sample_policy.txt` as a sample document for testing. It contains a mock employee policy with information about working hours and remote work.
+
 ## How to Run the Application
 
 You can provide your Google Gemini API key by either setting the `GOOGLE_API_KEY` environment variable, adding it to a `.env` file, passing it via `--api-key`, or entering it interactively.
@@ -79,3 +82,25 @@ When you ask a question, the system converts it into an embedding. It then compa
 ### How RAG Differs from Simply Asking an LLM a Question
 When you simply ask an LLM a question, it relies entirely on its pre-trained, static, general knowledge. It might hallucinate or not know about private/recent data.
 In RAG (Retrieval-Augmented Generation), you first retrieve factual, highly relevant information from your own specific documents and inject that context into the LLM's prompt. The LLM acts purely as a reasoning engine to read the context and formulate an answer, ensuring accuracy and citing the source document.
+
+## Screenshots
+
+*(When editing this file on GitHub, you can delete the placeholder text below and simply drag-and-drop your screenshot images directly into the editor!)*
+
+### Document Ingestion
+![Document Ingestion Screenshot](replace_this_with_image_url)
+
+### Embedding/Indexing Process
+![Embedding/Indexing Screenshot](replace_this_with_image_url)
+
+### Vector Database/Search
+![Vector Search Screenshot](replace_this_with_image_url)
+
+### User Query
+![User Query Screenshot](replace_this_with_image_url)
+
+### Retrieved Context
+![Retrieved Context Screenshot](replace_this_with_image_url)
+
+### Final Generated Answer
+![Final Answer Screenshot](replace_this_with_image_url)
